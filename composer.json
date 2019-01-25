@@ -1,0 +1,11 @@
+{
+    "name": "gaecamp/wp-quake",
+    "description": "WP plugin, it connects to gaecamp/laravel-quake instance, retrieve data via API and create custom quake wp-posts",
+    "authors": [
+        {
+            "name": "gaetano campanella",
+            "email": "gaecamp@gmail.com"
+        }
+    ],
+    "require": {}
+}
